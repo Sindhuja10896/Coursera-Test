@@ -11,6 +11,7 @@ h1{
 }
 
 p{
+	
 	float:right;
 	 border-bottom-style: solid;
      border-left-style: solid;
@@ -24,6 +25,7 @@ p{
 
 
 div{
+	overflow: hidden;
 	display: block;
     background-color: gray;
   border: 10px solid black;
